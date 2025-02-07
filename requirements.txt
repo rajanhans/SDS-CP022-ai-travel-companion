@@ -8,9 +8,6 @@ load_dotenv
 selenium
 requests
 
-# plotting libraries
-graphviz
-pygraphviz
 
 # LLM apis
 openai
